@@ -197,8 +197,12 @@ body {
   margin-top: 45px
 }
 
-/* .login-box{
-  position: relative;
-  margin-left: 20px;
-  
+.NavSearch {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+/* .selectedMail {
+  background-color: yellowgreen;
 } */
